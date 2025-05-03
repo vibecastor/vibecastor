@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm Mike 👋</h1>
 
 I'm a full-stack engineer passionate about building meaningful tools that help people connect, learn, and grow. I thrive at the intersection of design and engineering, with a strong focus on user experience and social-emotional learning platforms. I'm deeply committed to becoming the best engineer I can be—constantly learning, leveling up my skills, and pushing myself to write cleaner, smarter code every day.
