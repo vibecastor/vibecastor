@@ -5,7 +5,7 @@ I'm a full-stack engineer passionate about building meaningful tools that help p
 - 🔭 I’m currently working on: [CivilTalk](https://www.civiltalk.com) – A platform helping teams and individuals strengthen their emotional intelligence and civility through prompts and reflections. 
 - 💬 Ask me about: Building scalable front-end systems, technical hiring, startup product strategy, or career transitions into tech.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mikecastor) | Email: mikecastor.dev@gmail.com
-- ⚡ Fun facts: I currently live in Seattle, WA, I love mountains, music and coffee! I once was a technical recruiter at Meta and then I founded a startup that blends psychology with tech. The handle @vibecastor is a play on the fact that I play a musical instrument called the vibraphone.
+- ⚡ Fun facts: I currently live in Seattle, WA, I love web development, mountains, music and coffee! I once was a technical recruiter at Meta and then I helped found a startup that blends psychology with tech. The handle @vibecastor is a play on the fact that I play an obscure musical instrument called the vibraphone.
 
 
 <div>
